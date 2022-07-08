@@ -1,3 +1,1 @@
-#Odin Project
-
-Learning about web dev etc 
+Changing the readme 
